@@ -1,6 +1,6 @@
 # Master-Canary---Write-up-----DreamHack
 
-Hướng dẫn cách giải bài Obese Canary cho anh em mới chơi pwnable.
+Hướng dẫn cách giải bài Master Canary cho anh em mới chơi pwnable.
 
 **Author:** Nguyễn Cao Nhân aka Nhân Sigma
 
